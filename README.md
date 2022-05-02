@@ -7,18 +7,20 @@ Text-to-speech (TTS) is a type of assistive technology that reads digital text a
 
 ## Pre-requisites
 
-•	[NodeJs] - The compiler of javascript.
+•	NodeJs - The compiler of javascript.
 
-•	[Express js] - Running web server and Api's.
+•	Express js - Running web server and Api's.
 
-•	[Micorosoft Azure] - To convert users text to speech.
+•	npm - Nodejs package manager.
 
-•	[npm] - Nodejs package manager.
+•	Micorosoft Azure - To convert users text to speech.
 
-•	[dotenv] - to seperate secrets from source code and share source code while allowing other people to create their own.
+•	dotenv - to seperate secrets from source code and share source code while allowing other people to create their own.
 
-Steps:
-Download code from github link
+## Steps:
+
+Download code from github [link](https://github.com/ChandanAnanth/ITIS-6177-SystemIntegration-FinalProject-TextToSpeech.git).
+
 Open the code in any Nodejs Editor. Example: Visual code
 
 Edit .env file and add following values:
